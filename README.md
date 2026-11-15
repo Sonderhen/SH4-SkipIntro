@@ -16,7 +16,7 @@ If you don't press it, the game starts as usual.
 
 ## Installation
 
-Copy `SkipIntro.dll` to the game folder.
+Copy `SH4SkipIntro.dll` to the game folder.
 
 ## Log
 
