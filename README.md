@@ -12,7 +12,7 @@ If you don't press it, the game starts as usual.
 
 ## Requirements
 
-- [SH4 DLL Loader]([../SH4DLLLoader](https://github.com/Sonderhen/SH4-DLLLoader/releases))
+- [SH4 DLL Loader](https://github.com/Sonderhen/SH4-DLLLoader/releases)
 
 ## Installation
 
